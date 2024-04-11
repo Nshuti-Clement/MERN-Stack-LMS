@@ -8,7 +8,7 @@ export const navItemsData = [
   },
   {
     name: "Courses",
-    url: "/courses",
+    url: "https://health-edu-courses.vercel.app", 
   },
   {
     name: "About",
@@ -54,7 +54,7 @@ const NavItems: React.FC<Props> = ({ activeItem, isMobile }) => {
             <Link href={"/"} passHref>
               <span
                 className={`text-[25px] font-Poppins font-[500] text-black dark:text-white`}
-              >ELearning</span>
+              >HealthEdu</span>
             </Link>
           </div>
             {navItemsData &&
