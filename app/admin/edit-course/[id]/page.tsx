@@ -13,8 +13,8 @@ const page = ({params}:any) => {
   return (
     <div>
         <Heading
-         title="Elearning - Admin"
-         description="ELearning is a platform for students to learn and get help from teachers"
+         title="HealthEdu - Admin"
+         description="HealthEdu is a platform for students to learn and get help from teachers"
          keywords="Prograaming,MERN,Redux,Machine Learning"
         />
         <div className="flex">
