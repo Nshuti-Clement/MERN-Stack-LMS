@@ -113,7 +113,7 @@ const Footer = (props: Props) => {
             
           </div>
         </div>
-        <hr />
+        <hr style={{ width: '15px', color: '#03c03c' }} />
         <br />
         <p className="text-center text-black dark:text-white">
           Copyright © 2024 HealthEdu | All Rights Reserved
