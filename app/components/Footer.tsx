@@ -113,6 +113,7 @@ const Footer = (props: Props) => {
             
           </div>
         </div>
+        <hr />
         <br />
         <p className="text-center text-black dark:text-white">
           Copyright © 2024 HealthEdu | All Rights Reserved
