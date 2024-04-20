@@ -22,6 +22,10 @@ export const navItemsData = [
     name: "FAQ",
     url: "/faq",
   },
+  {
+    name: "Institute", // New link for Institute
+    url: "/institute",
+  },
 ];
 
 type Props = {
