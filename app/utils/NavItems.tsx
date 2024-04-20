@@ -23,7 +23,7 @@ export const navItemsData = [
     url: "/faq",
   },
   {
-    name: "Institute", // New link for Institute
+    name: "for Institute", // New link for Institute
     url: "/institute",
   },
 ];
