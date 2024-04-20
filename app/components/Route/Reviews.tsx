@@ -25,7 +25,8 @@ export const reviews = [
     avatar: "https://randomuser.me/api/portraits/men/2.jpg",
     profession: "computer systems engineering student | Zimbabwe",
     comment:
-    "Thanks for your amazing programming tutorial channel! Thanks for your amazing programming tutorial channel! Your teaching style is outstanding, and the quality of your tutorials is top-notch. Your ability to break down complex topics into manageable parts, and passion for teaching programming, and keep up the fantastic work!"},
+    "Thanks for your amazing programming tutorial channel! Thanks for your amazing programming tutorial channel! Your teaching style is outstanding, and the quality of your tutorials is top-notch. Your ability to break down complex topics into manageable parts, and passion for teaching programming, and keep up the fantastic work!"
+  },
   {
     name: "Mina Davidson",
     avatar: "https://randomuser.me/api/portraits/women/2.jpg",
