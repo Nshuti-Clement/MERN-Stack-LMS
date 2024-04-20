@@ -14,8 +14,6 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "types": ["swiper"],
-    "typeRoots": ["node_modules/@types", "custom_typings"],
     "plugins": [
       {
         "name": "next"
