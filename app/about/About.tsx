@@ -1,3 +1,4 @@
+
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
@@ -8,7 +9,7 @@ const About = () => {
   const data = [
     {
       name: `John Morgan`,
-      img: `/public/assests/client-1.jpg`,
+      img: `/students/John_Morgan.jpg`,
       review: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
     },
     {

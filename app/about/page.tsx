@@ -4,7 +4,9 @@ import Header from "../components/Header";
 import About from "./About";
 import Footer from "../components/Footer";
 
-const Page = () => {
+type Props = {};
+
+const Page = (props: Props) => {
   const [open, setOpen] = useState(false);
   const [activeItem, setActiveItem] = useState(2);
   const [route, setRoute] = useState("Login");
